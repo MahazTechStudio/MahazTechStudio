@@ -77,8 +77,8 @@
 <a href="https://MahazTechStudio.github.io/test/index.html" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
 </a>
-
-<a href="mahaz13501@gmail.com" target="_blank">
+&nbsp;&nbsp;
+<a href="mailto:mahaz13501@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;&nbsp;
